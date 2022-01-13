@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <skills>
+        <row>GitBash</row>
+        <row>GitHub</row>
+        <row>DevTools</row>
+        <row>Android Studio</row>
+        <row>JSON</row>
+        <row>XML</row>
+        <row>API</row>
+        <row>Charles</row>
+        <row>SQL</row>
+        <row>Jmeter</row>
+        <row>Python</row>
+    </skills>
+</root>
