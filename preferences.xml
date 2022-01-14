@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <favourite film>home alone</favourite film>
-    <favourite series>lost in space</favourite series>
-    <favourite dish>potato</favourite dish>
-    <favourite season>spring</favourite season>
+    <favorite film>home alone</favorite film>
+    <favorite series>lost in space</favorite series>
+    <favorite dish>potato</favorite dish>
+    <favorite season>spring</favorite season>
     <country>American</country>
 </root>
