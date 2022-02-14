@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-    <Bag ID>
-        <ID>#123</ID>
-        <Name>Card - Unable to add new item to my cart </Name>
-        <Reporter>Liudmyla</Reporter>
-    </Bag ID>
-    <Bug owerview>
-        <Summary>When my file contains one item.</Summary>
-    </Bug owerview>
-    <Environment>
-        <Platform>Macintoch</Platform>
-        <Operating System>OS X 10.12.0</Operating System>
-        <Browser>Chrome53</Browser>
+        <ID>1R</ID>
+        <Summary>На странице регистрации нового пользователя, название формы не соответствует требованию, при визуальном осмотре страницы.</Summary>
+        <Project>Form_testing</Project>
+     <Environment>
+        <Operating_System>OS macOS 12.0.1 (21A559)</Operating_System>
+        <Browser>Browser	Mozilla Firefox, Google Chrome, Safari (17612.4.9.1.8)</Browser>
     </Environment>
-    <Bug details>
-        <Expected result>The cart should contain 2 items</Expected result>
-        <Actual result>The cart contains only 1 item</Actual result>
-    </Bug details>
-    <Bug tracking>
+        <Preconditions>http://itcareer.pythonanywhere.com/</Preconditions>
+    <Description>The cart should contain 2 items
+        <1>Перейти на сайт </1>
+        <2>Проверить название страницы</2>
+    </Description>
+        <Actual_result>ITCareerToday web form</Actual_result>
+        <Expected_result>Registration form</Expected_result>
         <Severity>Major</Severity>
-        <Priority>High</Priority>
-    </Bug tracking>
+        <Priority>Medium</Priority>
+        <Status>Open</Status>
+        <Reporter>Удовиченко</Reporter>
+        <Requirement>1F</Requirement>
+        <Assignee>Ксендзов В.</Assignee>
 </root>
+
+
+	
+
